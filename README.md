@@ -1,6 +1,6 @@
 ![alt text](https://github.com/spamchurch/isthisabookclub/blob/master/sticker.png)
 
-Although the infamous book club itself has come and gone, the underlying protocols that powered it live on. 
+Although the infamous book club itself has come and gone, the ancient underlying protocols that powered it live on. 
 
 1. Select a terrifying book that provides insight into reality.
 2. Clone this repository and edit `index.html` to contain the location of the meeting, as well as the book title. Post a new website with a thematic url.
