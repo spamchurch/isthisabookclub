@@ -1,0 +1,84 @@
+@font-face {
+    font-family: custom;
+    src: url(custom.ttf);
+}
+
+html,
+body {
+    height: 100%;
+    background-color:#000000;
+}
+
+a{
+    color:black;
+}
+div.wall {
+    position: relative;
+    height: 100%;
+    background-color: #000000;
+}
+
+div.content{
+  margin: 10%;
+  font-size: 90%;
+  font-family: custom;
+  font-weight: 700;
+}
+div.threshold {
+    position: absolute;
+    top: 40%;
+    left: 51.5%;
+    margin: -200px 0 0 -200px;
+    width: 300px;
+    height: 540px;
+    background-color: #FFFFFF;
+}
+div.door {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: black;
+    -webkit-transform-style: preserve-3d;
+    -webkit-perspective: 550px;
+    -webkit-transform-origin: 0 50%;
+    -webkit-transition: all 1s;
+    -moz-transform-style: preserve-3d;
+    -moz-perspective: 550px;
+    -moz-transform-origin: 0 50%;
+    -moz-transition: all 1s;
+    -o-transform-style: preserve-3d;
+    -o-perspective: 550px;
+    -o-transform-origin: 0 50%;
+    -o-transition: all 1s;
+    transform-style: preserve-3d;
+    perspective: 550px;
+    transform-origin: 0 50%;
+    transition: all 1s;
+}
+div.door:hover{
+    -webkit-transform: scale(0.05,1) skew(0deg,20deg); /*use scale to change how wide it opens*/
+    -moz-transform: scale(0.05,1) skew(0deg,20deg);
+    -o-transform: scale(0.05,1) skew(0deg,20deg);
+    transform: scale(0.05,1) skew(0deg,20deg);
+}
+
+div.door:active{
+    -webkit-transform: scale(0.05,1) skew(0deg,20deg); /*use scale to change how wide it opens*/
+    -moz-transform: scale(0.05,1) skew(0deg,20deg);
+    -o-transform: scale(0.05,1) skew(0deg,20deg);
+    transform: scale(0.05,1) skew(0deg,20deg);
+}
+
+
+div.door:focus{
+    -webkit-transform: scale(0.05,1) skew(0deg,20deg); /*use scale to change how wide it opens*/
+    -moz-transform: scale(0.05,1) skew(0deg,20deg);
+    -o-transform: scale(0.05,1) skew(0deg,20deg);
+    transform: scale(0.05,1) skew(0deg,20deg);
+}
+
+img{
+    padding-left: 20%;
+}
