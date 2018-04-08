@@ -5,7 +5,7 @@ isthisabook.club is a multimodal mobilization experiment aimed at blending techn
 
 It is an ancient experiment that has been passed through many generations across many years and geographic areas. As it has adapted over the years, the nature of the experiment has adopted to fit the medium of the time. This repository corresponds to  one iteration of the book club that is digital. It provides a starter kit to anyone who would like to conduct the experiment and advance the book club's global impact. 
 
-`media from passed gatherings` carries some thin remnants of different previous infamous book clubs that popped up in providence, ri, cambridga, ma and san francisco, co in early 2018. these various iterations of the book club discussed the books
+`media from passed gatherings` carries some thin remnants of different previous infamous book clubs that popped up in providence, ri, cambridge, ma and san francisco, ca in early 2018. these various iterations of the book club discussed the books
 1. The Holy Bible
 2. Simulaca and Simulation by Jean Baudrillard
 3. Beyond Apollo by Barry Marlzberg - a full transcript of this book club can be founded <a href = "https://soundcloud.com/spamchurch/book-club-3-beyond-apollo">here</a>.
