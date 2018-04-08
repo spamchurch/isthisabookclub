@@ -8,7 +8,7 @@ It is an ancient experiment that has been passed through many generations across
 `media from passed gatherings` carries some thin remnants of different previous infamous book clubs that popped up in providence, RI, cambridga, ma and san francisco, co in early 2018. these various iterations of the book club discussed the books
 1. The Holy Bible
 2. Simulaca and Simulation by Jean Baudrillard
-3. Beyond Apollo by Barry Marlzberg - a full transcript of this book club can be founded in MFPG
+3. Beyond Apollo by Barry Marlzberg - a full transcript of this book club can be founded <a href = "https://soundcloud.com/spamchurch/book-club-3-beyond-apollo">here</a>.
 4. Voyeurs Motel by Guy Talese
 5. Bartleby the Scrivener by Herman Melville 
 
